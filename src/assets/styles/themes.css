@@ -1,0 +1,18 @@
+/* Theme Variables */
+:root {
+  --primary: #1e40af;
+  --primary-deep: #1e3a8a;
+  --primary-mild: #3b82f6;
+}
+
+.theme-theme1 {
+  --primary: #0e7c7b;
+  --primary-deep: #0b5d5c;
+  --primary-mild: #17bebb;
+}
+
+.theme-theme2 {
+  --primary: #c94c4c;
+  --primary-deep: #933636;
+  --primary-mild: #f2ae72;
+}
